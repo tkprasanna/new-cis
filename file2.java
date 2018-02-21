@@ -1,7 +1,7 @@
-class hello
+class hello-lin
 {
-	public static void main()
+	public static void main()	#change is from lin-user
 	{
-		system.out.println("hello");
+		system.out.println("hello from lin-user");
 	}
 }
